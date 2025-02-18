@@ -28,7 +28,7 @@ Before running the application, make sure you have the following installed:
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/youtube-downloader.git
-cd youtube-downloader
+cd Youtube-Downloader
 ```
 
 2. Install required Python packages:
